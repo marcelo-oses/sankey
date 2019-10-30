@@ -1,6 +1,6 @@
 {
 "nodes":[
-{"node":0,"name":"Solicitação -> Produto -> Arrependimento"},
+{"node":0,"name":"Arrependimento"},
 {"node":1,"name":"ENT"},
 {"node":2,"name":"PAP"},
 {"node":3,"name":"IVE"},
